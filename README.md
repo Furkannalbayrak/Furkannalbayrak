@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&width=435&lines=Frontend+Developer;AI+and+Tech+Explorer;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
-# Hi 👋 I'm Furkan
-
 > "Talk is cheap. Show me the code."
 
 I am a frontend developer passionate about building clean and user-friendly interfaces.  
