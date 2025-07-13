@@ -23,6 +23,7 @@ Also learning AI and backend development.
 
 ###  Connect with me:
 [![Instagram](https://img.shields.io/badge/-@furkanalbayrak-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/furkanalbayrak)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkanalbayrak)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkanalbayrak)
+
 
 
