@@ -22,5 +22,6 @@ Also learning AI and backend development.
 
 
 ###  Connect with me:
-- Instagram: [@seninkullaniciadin](https://instagram.com/seninkullaniciadin)
-- GitHub: [furkanalbayrak](https://github.com/furkanalbayrak)
+[![Instagram](https://img.shields.io/badge/-@furkanalbayrak-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/furkanalbayrak)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/furkanalbayrak)
+
