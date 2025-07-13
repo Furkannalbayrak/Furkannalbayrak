@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&width=435&lines=Frontend+Developer;Responsive+Design;User-Friendly+ Interfaces" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&width=435&lines=Frontend+Developer;Responsive+Design;User-Friendly+Interfaces" alt="Typing SVG" />
 </p>
 
 > "Talk is cheap. Show me the code."
