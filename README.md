@@ -8,7 +8,7 @@
 I am a frontend developer passionate about building clean and user-friendly interfaces.  
 Also learning AI and backend development.
 
-### 🚀 Languages and Tools:
+###  Languages and Tools:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" />
@@ -21,6 +21,6 @@ Also learning AI and backend development.
 
 
 
-### 📫 Connect with me:
+###  Connect with me:
 - Instagram: [@seninkullaniciadin](https://instagram.com/seninkullaniciadin)
 - GitHub: [furkanalbayrak](https://github.com/furkanalbayrak)
