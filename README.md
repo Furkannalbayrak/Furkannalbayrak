@@ -5,8 +5,7 @@
 
 > "Talk is cheap. Show me the code."
 
-I am a frontend developer passionate about building clean and user-friendly interfaces.  
-Also learning AI and backend development.
+I am a frontend developer passionate about building clean and user-friendly interfaces. I'm focused on building websites with accessible, high-performance and responsive design
 
 ###  Languages and Tools:
 <p align="left">
