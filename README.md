@@ -22,7 +22,7 @@ high-performance and responsive design
 
 
 ###  Connect with me:
-[![LinkedIn]()](https://www.linkedin.com/in/furkanalbayrakdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkanalbayrakdev)
 
 
 
