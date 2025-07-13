@@ -22,7 +22,7 @@ high-performance and responsive design
 
 
 ###  Connect with me:
-[![LinkedIn](https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/home/fg/brand-homepg-guidance-inlogo-dsk-v01.jpg.original.jpg)](https://www.linkedin.com/in/furkanalbayrakdev)
+[![LinkedIn]()](https://www.linkedin.com/in/furkanalbayrakdev)
 
 
 
