@@ -20,11 +20,7 @@ I am a frontend developer passionate about building clean and user-friendly inte
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="45" alt="supabase" />
- <img src="https://skillicons.dev/icons?i=go,docker" height="45" alt="tech stack" />
- <img src="https://skillicons.dev/icons?i=postgres,postman" height="45" alt="tech stack" />          
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="45"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fiber/fiber-plain.svg" height="45" />
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git" />   
 </div>
 
 
