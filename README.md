@@ -5,10 +5,9 @@
 
 > "Talk is cheap. Show me the code."
 
-I am a frontend developer passionate about building clean and user-friendly interfaces. I'm focused on building websites with accessible,
-high-performance and responsive design
+I am a frontend developer passionate about building clean and user-friendly interfaces. I'm focused on building websites with accessible, high-performance and responsive design.
 
-###  Languages and Tools:
+### Languages and Tools:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" width="50" alt="javascript" />
@@ -24,8 +23,5 @@ high-performance and responsive design
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="44" width="50" alt="git" />
 </p>
 
-###  Connect with me:
+### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkanalbayrakdev)
-
-
-
