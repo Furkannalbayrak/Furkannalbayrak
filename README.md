@@ -10,6 +10,7 @@ I am a frontend developer passionate about building clean and user-friendly inte
 ### Languages and Tools:
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript" />
  <img src="https://skillicons.dev/icons?i=go,docker" height="45" alt="tech stack" />
  <img src="https://skillicons.dev/icons?i=postgres,postman" height="45" alt="tech stack" />          
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="45"/>
